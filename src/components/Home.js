@@ -37,7 +37,6 @@ function Home() {
                     </Link>
                     <button onClick={downloadCV} className='text-white group border-2 px-6 py-3 my-6 flex items-center hover:bg-[#4bcfc6] hover:border-[#4bcfc6]' >
                         Resume
-
                     </button>
                 </div>
             </div>
