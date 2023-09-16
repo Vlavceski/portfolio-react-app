@@ -8,6 +8,7 @@ function Contact() {
         action='https://getform.io/f/a689efe6-d5e4-471d-a339-47c235f04ecf'
         className='flex flex-col max-w-[600px] w-full'
       >
+        
         <div className='p-8'> {/* Corrected class name from 'pd-8' to 'p-8' */}
           <p className='text-4xl font-bold inline border-b-4 border-[#2fadc6] text-gray-300'>Contact</p>
           <p className='text-gray-300 py-4'> {/* Removed the comment from here */}
